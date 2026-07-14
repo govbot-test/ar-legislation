@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read the third time and passed.",
+    "occurred_at": "2026-05-05T14:21:51+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+        "note": ""
+      },
+      {
+        "url": "https://www.arkleg.state.ar.us/assembly/2025/2026S1/Pages/BillInformation.aspx?measureno=SB1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

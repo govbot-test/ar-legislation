@@ -1,0 +1,22 @@
+{
+  "action": {
+    "description": "Returned from the House as passed.",
+    "occurred_at": "2026-05-06T15:24:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+        "note": ""
+      },
+      {
+        "url": "https://www.arkleg.state.ar.us/assembly/2025/2026S1/Pages/BillInformation.aspx?measureno=SB1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

@@ -1,0 +1,25 @@
+{
+  "action": {
+    "description": "Read first time, rules suspended, read second time, referred to REVENUE & TAX - SENATE",
+    "occurred_at": "2026-05-04T20:07:16+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+        "note": ""
+      },
+      {
+        "url": "https://www.arkleg.state.ar.us/assembly/2025/2026S1/Pages/BillInformation.aspx?measureno=SB1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

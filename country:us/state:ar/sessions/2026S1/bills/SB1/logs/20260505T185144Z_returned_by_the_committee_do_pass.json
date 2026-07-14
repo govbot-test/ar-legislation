@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Returned by the Committee Do Pass",
+    "occurred_at": "2026-05-05T18:51:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026S1",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+        "note": ""
+      },
+      {
+        "url": "https://www.arkleg.state.ar.us/assembly/2025/2026S1/Pages/BillInformation.aspx?measureno=SB1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1"
+}

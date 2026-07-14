@@ -1,0 +1,502 @@
+{
+  "legislative_session": "2026S1",
+  "identifier": "SB 1",
+  "title": "TO REDUCE THE INCOME TAX RATES FOR INDIVIDUALS, TRUSTS, ESTATES, AND CORPORATIONS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ar-2026s1-sb1"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2026-04-30T17:20:43+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Read first time, rules suspended, read second time, referred to REVENUE & TAX - SENATE",
+      "date": "2026-05-04T20:07:16+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee, with the recommendation that it Do Pass",
+      "date": "2026-05-04T21:09:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed.",
+      "date": "2026-05-05T14:21:51+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Ordered immediately transmitted to the House.",
+      "date": "2026-05-05T14:22:10+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "RECEIVED FROM THE SENATE",
+      "date": "2026-05-05T14:30:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Read the first time, rules suspended, read the second time and referred to the Committee on REVENUE & TAXATION- HOUSE",
+      "date": "2026-05-05T15:00:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Returned by the Committee Do Pass",
+      "date": "2026-05-05T18:51:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Read the third time and passed and ordered transmitted to the Senate.",
+      "date": "2026-05-06T14:39:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Returned to the Senate as passed.",
+      "date": "2026-05-06T14:39:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Returned from the House as passed.",
+      "date": "2026-05-06T15:24:57+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2026-05-06T15:25:08+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled and ordered delivered to the Governor.",
+      "date": "2026-05-06T15:27:02+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "DELIVERED TO GOVERNOR.",
+      "date": "2026-05-06T15:27:06+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    },
+    {
+      "description": "Notification that SB1 is now Act 2",
+      "date": "2026-05-06T19:06:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:17:48Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Dismang",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Dismang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eaves",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eaves\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Boyd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Boyd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bryant",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Bryant\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Caldwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Clark",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"A. Clark\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crowell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Crowell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dees",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dees\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Dotson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Dotson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. English",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Flippo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Flippo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilmore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gilmore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Hammer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"K. Hammer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hester",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hester\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hickey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hickey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Irvin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Irvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"M. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. McKee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"M. McKee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Payton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Payton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Penzo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"C. Penzo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Petty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Petty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Simon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Simon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"D. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"D. Wallace\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2026S1%2FPublic%2FSB1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act 2",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2026S1%2FPublic%2F&file=2.pdf&ddBienniumSession=2025%2F2026S1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": "became-law"
+    }
+  ],
+  "documents": [
+    {
+      "note": "DFA1",
+      "links": [
+        {
+          "url": "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2F2025%2F2026S1%2FFiscal+Impacts%2FSB1-DFA1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-30",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "AR Acts, 2025 - 2026 First Extraordinary Session",
+      "citation": "Act 2",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2026S1%2FPublic%2F&file=2.pdf&ddBienniumSession=2025%2F2026S1"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument/?path=%2fSessionInformation%2LegislativeMeasures.txt",
+      "note": ""
+    },
+    {
+      "url": "https://www.arkleg.state.ar.us/assembly/2025/2026S1/Pages/BillInformation.aspx?measureno=SB1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ar/government",
+    "name": "Arkansas",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ar"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:17:48Z"
+  }
+}
